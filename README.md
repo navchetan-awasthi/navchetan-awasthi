@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @navchetan-awasthi and I am currently a postdoctoral fellow working in the field of Deep Learning for Precision Imaging in the Department of 
-Biomedical Engineering at the Eindhoven University of Technology, Eindhoven, Netherlands.
+- 👋 Hi, I’m @navchetan-awasthi and I am currently an assistant professor in the field of Deep Learning for Medical Imaging in the Faculty of Science, Mathematics and Computer Science at the University of Amsterdam, Amsterdam, Netherlands.
 - 👀 I’m interested in development of deep learning models which can be translated in clinics for efficient utilization of artificial intelligence techniques for 
 medical imaging modalities.
 - 🌱 I’m currently developing light weight models for medical image processing and medical image reconstruction techniques.
